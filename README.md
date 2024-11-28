@@ -3,6 +3,9 @@
 ## Overview
 Used pretrain models for benchmarking like ResNet, Tripletnetwork, Siamese, Clip, Autoencoder, LSH, EfficientNET
 
+## Report Link
+https://docs.google.com/document/d/1C39xits3xOIPl4goo9EdJAbqAY68y-teyrsL1aq61wI/edit?usp=sharing
+
 ## Project Structure
 ```
 ├── sampled_fashion_dataset/
@@ -77,7 +80,7 @@ See `requirements.txt` for a complete list of dependencies.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-Project Link: https://github.com/[username]/Shoppin
+Project Link: https://github.com/sj0605-datasci/Shoppin
 
 ## Acknowledgments
 - Thanks to contributors who have participated in this project
